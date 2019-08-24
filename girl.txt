@@ -1,0 +1,4 @@
+name;sex;email;sex_name
+Michelle                                          ;0;Michelle@modernweb.com                            ;girl
+Irta                                              ;0;irta@modernweb.com                                ;girl
+Maggie                                            ;0;maggie@modernweb.com                              ;girl
